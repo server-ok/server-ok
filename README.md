@@ -1,5 +1,5 @@
 # [![Приветик :3-Dark](https://rudetext.vercel.app/api?text=+Приветик+:3+&text_color=FFFFFF&font=Comic+Sans+MS&font_size=64#gh-dark-mode-only)](https://github.com/server-ok#gh-dark-mode-only)[![Приветик :3-Light](https://rudetext.vercel.app/api?text=+Приветик+:3+&text_color=000&font=Comic+Sans+MS&font_size=64#gh-light-mode-only)](https://github.com/server-ok#gh-light-mode-only)
-Я - ![серверок.](https://rudetext.vercel.app/api?text=серверок.&text_color=000&font=Segoe+UI&font_size=16&delay=0&anim_name=rainbow&iteration_count=infinite&duration=5) Я могу программировать на разных языках, чаще всего на gdscript (игрульки делаю), C++ (мне он нравится за скорость, с памятью я не развлекаюсь) и JS (я сейчас делаю себе сайт). Я давно ничего не делал на питоне. Но могу. Наверное. Было бы время.. Еще мне нравятся эзотерические языки, они прикольные.  
+Я - ![серверок.](https://rudetext.vercel.app/api?text=серверок.&animation=rainbow&duration=5&height=16&dominant_baseline=hanging) Я могу программировать на разных языках, чаще всего на gdscript (игрульки делаю), C++ (мне он нравится за скорость, с памятью я не развлекаюсь) и JS (я сейчас делаю себе сайт). Я давно ничего не делал на питоне. Но могу. Наверное. Было бы время.. Еще мне нравятся эзотерические языки, они прикольные.  
 Моё настоящее имя - Лёша. Родился 1 апреля :D
 
 
