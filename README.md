@@ -4,7 +4,7 @@
 
 
 ## [![Статистика:](https://rudetext.vercel.app/api?text=+Статистика:+&text_color=FFFFFF&font=Comic+Sans+MS&font_size=32&delay=0.5#gh-dark-mode-only)](https://github.com/server-ok#gh-dark-mode-only)[![Статистика:](https://rudetext.vercel.app/api?text=+Статистика:+&text_color=000&font=Comic+Sans+MS&font_size=32&delay=0.5#gh-light-mode-only)](https://github.com/server-ok#gh-light-mode-only)
-![stats](https://github-readme-stats.vercel.app/api?username=server-ok&show_icons=true&theme=radical&locale=en&custom_title=serverok&hide_border=true&border_radius=25&card_width=425) ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=server-ok&theme=radical&layout=compact&hide_border=true&border_radius=25&card_width=425)
+![stats](https://github-readme-stats-srvrk.vercel.app/api?username=server-ok&show_icons=true&theme=radical&custom_title=serverok&hide_border=true&border_radius=25&card_width=425) ![langs](https://github-readme-stats-srvrk.vercel.app/api/top-langs/?username=server-ok&theme=radical&layout=compact&hide_border=true&border_radius=25&card_width=425?)
 
 ## [![Проекты:](https://rudetext.vercel.app/api?text=+Проекты:+&text_color=FFFFFF&font=Comic+Sans+MS&font_size=32&delay=1#gh-dark-mode-only)](https://github.com/server-ok#gh-dark-mode-only)[![Проекты:](https://rudetext.vercel.app/api?text=+Проекты:+&text_color=000&font=Comic+Sans+MS&font_size=32&delay=1#gh-light-mode-only)](https://github.com/server-ok#gh-light-mode-only)
 TODO: добавь проекты потом
